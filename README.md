@@ -11,7 +11,6 @@
   <img src="https://media.giphy.com/media/V0OggVqQxNIOI/giphy.gif"/>
 </div>
 
-- 🌱 I’m currently learning React <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="15" height="15"/>
 - 📫 How to reach me: ismail.m0@proton.me
 
 ---
@@ -24,6 +23,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="SCSS/SASS" **alt="SCSS/SASS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" **alt="Bootstrap" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="Tailwind Css" **alt="Tailwind Css" width="40" height="40"/>&nbsp;
+  <img src="https://www.svgrepo.com/show/60531/daisy.svg" title="daisyui" **alt="daisyui" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
