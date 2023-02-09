@@ -7,10 +7,6 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/V0OggVqQxNIOI/giphy.gif"/>
-</div>
-
 - 📫 How to reach me: ismail.m0@proton.me
 
 ---
